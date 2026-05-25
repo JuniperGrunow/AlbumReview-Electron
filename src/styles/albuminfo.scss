@@ -1,0 +1,50 @@
+.album-info {
+  background: #9955aa;
+  text-align: center;
+  padding: 2%;
+  width:80cqw;
+  height: 80cqh;
+  margin:10cqw;
+  border-radius: 1cqw;
+  box-sizing: border-box;
+}
+.album-info table {
+  width: 90%;
+  margin-right: 5%;
+  margin-left: 5%;
+  border: 1px solid black;
+  border-radius: 1cqw;
+}
+.album-info input{
+  width:95%;
+}
+
+.album-info td {
+  width:auto;
+  padding: 1cph;
+  margin-right: 1%;
+  border: 1px solid black;
+}
+
+.genreHolder {
+  height: 20dvh;
+  width:90%;
+  background: orange;
+  border-radius: 1cqw;
+  padding: 1cph;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
+
+.text-break {
+  text-align: center;
+  width:90%;
+  height:5%;
+  margin-right:5%;
+  margin-left:5%;
+  border-color: #FFFFFF;
+  border-width:thick;
+  border-style: double none double none;
+  border-radius: 5vw;
+}
