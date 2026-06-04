@@ -3,7 +3,6 @@
   text-align: center;
   padding: 2%;
   width:80cqw;
-  height: 80cqh;
   margin:10cqw;
   border-radius: 1cqw;
   box-sizing: border-box;
@@ -47,4 +46,12 @@
   border-width:thick;
   border-style: double none double none;
   border-radius: 5vw;
+}
+
+.addSongButton {
+  width:90%;
+  border-radius: 1rem;
+  margin-top: 2%;
+  border: 2px solid purple;
+
 }
